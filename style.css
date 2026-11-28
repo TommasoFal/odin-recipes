@@ -1,0 +1,46 @@
+h1,
+#pasta,
+#pizza {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: saddlebrown;
+    background-color: blanchedalmond;
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    border: solid black;
+    border-style: dashed;
+    margin-bottom: 40px;
+}
+
+#pizza {
+    display: block;
+    text-align: center;
+    background-color: saddlebrown;
+    color: blanchedalmond;
+    width: 200px;
+    font-size: 35px;
+    padding: 20px;
+    border: solid black;
+    border-style: dashed;
+    margin-bottom: 20px;
+
+}
+
+#pasta {
+    display: block;
+    text-align: center;
+    background-color: saddlebrown;
+    color: blanchedalmond;
+    width: 200px;
+    font-size: 35px;
+    padding: 20px;
+    border: solid black;
+    border-style: dashed;
+    margin-bottom: 20px;
+}
+
+
